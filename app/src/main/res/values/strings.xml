@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Feb10_17_FragmentComms</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_1_textV1_text">This is F1</string>
+    <string name="fragment_2_textV1_text">This is F2</string>
+</resources>
